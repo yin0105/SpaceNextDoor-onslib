@@ -1,0 +1,11 @@
+enum HistoryLogType {
+  BILLING = 'BILLING',
+  BOOKING = 'BOOKING',
+  CHECK_IN = 'CHECK_IN',
+  CONTACT = 'CONTACT',
+  TERMINATION = 'TERMINATION',
+  TRANSACTION = 'TRANSACTION',
+  OTHER = 'OTHER',
+}
+
+export { HistoryLogType };

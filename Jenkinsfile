@@ -1,0 +1,3 @@
+npmPackageDeploymentPipeline {
+  repository            = "onslib"
+}
